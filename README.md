@@ -1,9 +1,9 @@
 
 # Movie Zone
 
-Movie Zone is a React.js project that utilizes The Movie Database (TMDb) API to provide users with information about movies, including details, ratings, and trailers.
+Movie Zone is a React.js project that utilizes The Movie Database (TMDb) API to provide users with information about movies, including details, ratings, and trailers. With Movie Zone, users can easily explore and discover their favorite movies, watch trailers, and save their preferences for future reference.
 
-![image](https://github.com/R-Sudheer-Kumar/MovieZone/assets/109749996/2073c6a3-eebb-4c67-a94e-67bc6c4750d3)
+![image](https://github.com/R-Sudheer-Kumar/MovieZone/assets/109749996/d4d4b5d1-2865-48b7-803c-eae9aba67aaf)
 
 
 ## Features
